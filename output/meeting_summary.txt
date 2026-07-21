@@ -1,0 +1,8 @@
+
+Project launch is planned before 30 July.
+The login module is completed.
+Payment integration is pending.
+Homepage design is completed.
+Dashboard UI is still under development.
+Testing starts on 26 July.
+Final deployment is on 30 July.

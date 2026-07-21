@@ -1,0 +1,28 @@
+Project Meeting - 21 July 2026
+
+Participants:
+Alice (Project Manager)
+Bob (Developer)
+Charlie (Designer)
+
+Discussion:
+
+Alice:
+We need to launch the website before 30 July.
+
+Bob:
+The login module is completed.
+Payment integration is still pending.
+I will complete it by 25 July.
+
+Charlie:
+Homepage design is finished.
+Dashboard UI needs two more days.
+
+Alice:
+Charlie should finish Dashboard UI by 23 July.
+Bob should complete payment module by 25 July.
+Testing will begin on 26 July.
+Final deployment is scheduled for 30 July.
+
+Meeting Ended.
